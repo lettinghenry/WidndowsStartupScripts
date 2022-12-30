@@ -2,9 +2,9 @@
 @REM cd C:\Program Files\Android\Android Studio\bin\
 
 @REM Jetbrains Toolbox installation
-cd C:\Users\letti\AppData\Local\JetBrains\Toolbox\apps\AndroidStudio\ch-0\213.7172.25.2113.9123335\bin
+@REM cd C:\Users\<username here>\AppData\Local\JetBrains\Toolbox\apps\AndroidStudio\ch-0\213.7172.25.2113.9123335\bin
 
-start studio64.exe
+@REM start studio64.exe
 
 
 
