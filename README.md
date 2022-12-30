@@ -1,5 +1,5 @@
 # Windows Startup Scripts
-Scripts to start applications as soon as OS is booted up.
+These scripts are meant to start applications as soon as OS is booted up.
 To run scripts, uncomment and place in windows startup folder.
 
 
